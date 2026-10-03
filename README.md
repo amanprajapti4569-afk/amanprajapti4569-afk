@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm your aman prajapti</h1>
 <h3 align="center">A passionate MERN STACK developer from India</h3>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amanprajapti4569-afk&show_icons=true&theme=dark" alt="Aman's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanprajapti4569-afk&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanprajapti4569-afk&label=Profile%20views&color=0e75b6&style=flat" alt="amanprajapti4569-afk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanprajapti4569-afk" alt="amanprajapti4569-afk" /></a> </p>
